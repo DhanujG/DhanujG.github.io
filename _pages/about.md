@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am entering my final year at the University of Michigan graduating with degrees in Data Science, Computer Science, and Ecology. I am more than excited about for the future! My background and pursued interests in the multidisciplinary applications of recent Machine Learning research and Big Data Analysis give me great confidence to approach modern AI and Autonomous Technology Opportunities.
 
-A data-driven personal website
+I am an upcoming senior at the University of Michigan, with two of my three degrees being Data Science and Computer Science. Given the cancellation of my summer career plans, my search for new opportunities led me to discover the Research Intern position at Google. I was not only attracted to Google's approach to team-based discovery with software engineers but also how relevant my work in machine learning and data analytics research is to the position. Given my experiences and philosophy applying data science techniques to multiple domains coupled with my history of multidisciplinary teamwork and communication, I believe I am an excellent fit for your team as a Research Intern.
+	 My passion for exploring how the intersection of data science contributes to propagating growth within any field has driven my personal and professional pursuits. I am equally excited about the unique journey as I am with the destination. In my recent personal project, I explored utilizing machine learning to prevent forest fires by detecting tree density. I implemented a spatial convolutional neural network to estimate density maps from aerial drone images of forests, performing at 83% test accuracy. However, what I believe truly distinguishes me as a candidate is my ever-growing dedication to acquire the most reliable basis of knowledge for my projects such that I can uniquely apply data science with the highest of potential. My search for technical information and inspiration has led me to pursue degrees in Data Science and Computer Science, consisting of even graduate classes. My work of applying data science within medical research had me implement data-driven ML classifiers to predict the stage of Bladder Cancer with ~80% staging accuracy. My commitment to additionally understand the field of cancer staging, allowed me to efficiently work with Radiologists, Oncologists, and Medical Researchers to become published twice as the primary author. 
+ My affinity and experiences with interdisciplinary communication contribute significantly to my accomplishments. At an SPIE Conference, I presented my data-driven cancer research to a hall of 50+ doctors, engineers, and health officials, answering a spectrum of questions from top scientists and resulting in the successful publication of our work. The skills I have picked up from my history in teaching, combined with my enthusiasm and commitment to obtain multiple perspectives, has been crucial to my team and leadership efficacy. In my Computational Ecology Lab meeting, I often operate as a liaison, explaining techniques of data science and their ecological relevance/potential to my colleagues. I work with a team of ecologists, biologists, and mathematicians in my current research utilizing unsupervised clustering analysis to obtain patterns in field species trait data. 
+ As Founder and Project Manager in Michigan Eco Data, I have led multidisciplinary applications of data science and facilitated communication across a team that ranges from earth science to computer science majors. In our most recent project, I took over 3 MM+ EPA datapoints utilizing data visualization and structuring techniques to produce a tool for average consumers to see a heatmap of chemical contaminations in their zip code. This work earned our organization sponsorship with the Michigan Institute for Data Science – the premier governing body for data-driven work at the University.
+I believe that my technical experiences supported by my evolving basis of knowledge, along with the team and leadership experiences built with my interdisciplinary communication, make me an ideal candidate as a Machine Learning and Data Analytics Research Intern. Please do not hesitate to reach out if you have any questions, thank you for your time and consideration.
+
+
+Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Like many other Jekyll-based GitHub Pages templates
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Future
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+
+What is on my website?
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
