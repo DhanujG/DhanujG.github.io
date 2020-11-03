@@ -36,24 +36,26 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+Teaching
+======
+  <ul>{% for post in site.experience %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.research %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.projects %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
