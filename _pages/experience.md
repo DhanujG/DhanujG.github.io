@@ -1,59 +1,50 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Professional Experience"
+permalink: /experience/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Machine Learning Dev. Student Research
+=====
+Computational Ecology, Evolution and Biology Lab - University of Michigan
+-----
+* January 2020 – Present
+  * Encoded Density Clustering ML Model, selected with DBCV analysis suite to identify coexistence among competing species contrary to existing principles of competitive exclusion. Model architecture and validation designed from recent ML research.
+  * Created R package for Bio-Ecologists to easily structure trait data and perform Biological ML Clustering Analysis
+  * Operate as an interdisciplinary reference within lab to explain and analyze machine learning and data analysis research.
+  * Notable Technologies Used: Python, C++/C, R, MATLAB, Git
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Project Director & Founder
+=====
+Michigan Eco Data
+-----
+* September 2019 – Present
+  * Sponsored Student Organization under Michigan Institute for Data Science (MIDAS) • Founded org as a venue for interdisciplinary exploration in data science, software engineering, and environmental conservation 
+  * Execution of consumer Michigan Chemical Contamination Heatmap Visualization for Consumer Use (project details below)and effective executive board management awarded organization 2000$ sponsorship per semester from Michigan Institute of Data Science
+  * Other Projects Include: Ecological Footprint App Tracking and Wildlife Drone Pattern Analysis
+  * Notable Technologies Used: Python [Pandas, Date-Time Forecasting, PyPlot, Matplotlib], R, HTML, CSS, Jinja, GitHub Pages, Swift, MAVSDK
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Data Science Intern
+=====
+GHD: Engineering, Architectural, and Environmental Consulting
+-----
+* June 2019 – August 2019
+  * Structured collected/ scraped ARCGIS with facility data and performed regression and linear neural network analysis to determine optimal PFAS testing sites with reduction in operating costs. 
+  * Created custom field forms and designed database architecture to pipeline response data into auto-populated EPA Audit Forms. Automation pipeline transformed field form collection data into 5000+ Audit cells previously filled manually.
+  * Notable Technologies Used: ARCGIS, ARCGIS External API, SAP-HANA, Python, Survey123, FME, MS Excel
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+Machine Learning & Computer Vision Student Research
+=====
+Michigan Medicine Computer Aided Diagnosis Laboratory - University of Michigan
+-----
+* January 2017 – May 2019
+  * Findings resulted as Primary Author in two Publications, was selected for Poster, Oral Presentation in SPIE Conference 2019
+  * Performed Feature Extraction and Selection on Bladder CTU Scan Segmentations to extract key features in Bladder Cancer Lesion Staging (staging determines the avenue of treatment)
+  * Implemented and trained a series of Back Propagated Neural Networks, Linear Discriminant Analysis, Support Vector Machines, and Random Forest Algorithms – validated through ROC analysis - resulting in a models' cancer staging accuracy (+80%)
+  * Notable Technologies Used: C++, C, Python, Weka, MS Excel
+
