@@ -2,22 +2,22 @@
 main:
 
   - title: "Experience"
-    url: /teaching/  
+    url: /experience/  
 
   - title: "Research"
-    url: /publications/
+    url: /research/
 
   - title: "Projects"
-    url: /talks/    
+    url: /projects/    
 
   - title: "Coursework"
-    url: /cv/
+    url: /coursework/
     
   - title: "Extracurricular"
-    url: /portfolio/
+    url: /extracurricular/
         
-  - title: "Fun in my Life"
-    url: /year-archive/
+  - title: "Peek in my Life"
+    url: /life/
     
   - title: "Guide"
     url: /markdown/

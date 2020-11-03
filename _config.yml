@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dhanuj Mount Gandikota's Website!"
+title                    : "Welcome to my Website!"
 title_separator          : "-"
 name                     : &name "Dhanuj Gandikota"
 description              : &description "personal description"
@@ -191,10 +191,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _life
   - scope:
       path: ""
-      type: posts
+      type: life
     values:
       layout: single
       author_profile: true
@@ -209,37 +209,37 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _experience
   - scope:
       path: ""
-      type: teaching
+      type: experience
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _extracurricular
   - scope:
       path: ""
-      type: portfolio
+      type: extracurricular
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _projects
   - scope:
       path: ""
-      type: talks
+      type: projects
     values:
       layout: talk
       author_profile: true
