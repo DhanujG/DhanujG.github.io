@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Classes Taken and Coursework"
+title: "Educational History"
 permalink: /coursework/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Degrees
 ------
 * B.S. in Data Science, University of Michigan, 2021
 * B.S. in Computer Science, University of Michigan, 2021
