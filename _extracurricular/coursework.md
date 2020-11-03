@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Data Science, University of Michigan, 2021
 * B.S. in Computer Science, University of Michigan, 2021
-* B.S. in Data Science, University of Michigan, 2021
+* B.S. in Ecology & Evolutionary Biology, University of Michigan, 2021
 
 Classes Taken
 ======

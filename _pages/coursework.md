@@ -10,52 +10,26 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+------
+* B.S. in Data Science, University of Michigan, 2021
+* B.S. in Computer Science, University of Michigan, 2021
+* B.S. in Ecology & Evolutionary Biology, University of Michigan, 2021
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Classes Taken
+------
+* Graduate
+  * EECS 545: Machine Learning
+  * EECS 598: Computational Data Science & Machine Learning
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Teaching
-======
-  <ul>{% for post in site.experience %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
-Publications
-======
-  <ul>{% for post in site.research %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.projects %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Undergraduate (Relevant Courses Displayed)
+  * EECS 492: Autonomous Robotics
+  * EECS 484: Database Managment Systems
+  * EECS 445: Intr. Machine Learning 
+  * EECS 442: Computer Vision
+  * EECS 281: Data Structures and Algorithms
+  * STATS 415: Data Mining
+  * STATS 413: Regression Analysis
+  * Math 217: Linear Algebra
+  * EEB 445: Population and Community Ecology
+  * CMPLXSYS 435: Ecological Networks
+  * PHYSICS 365: Cyberscience & Fourth Paradigm
