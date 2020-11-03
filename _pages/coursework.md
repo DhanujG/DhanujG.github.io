@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Classes Taken and Coursework"
+permalink: /coursework/
 author_profile: true
 redirect_from:
   - /resume
