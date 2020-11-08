@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: "Bladder cancer staging in CT urography: estimation and validation of decision thresholds for a radiomics-based decision support system"
 collection: research
 permalink: /research/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+date: 2019-03-13
+venue: 'SPIE 10950, Medical Imaging 2019'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Dhanuj Gandikota, Lubomir Hadjiiski, Heang-Ping Chan, Kenny H. Cha, Ravi Samala, Elaine M. Caoili, Richard H. Cohan, Alon Weizer, Ajjai Alva, Chintana Paramagul, Jun Wei, and Chuan Zhou "Bladder cancer staging in CT urography: estimation and validation of decision thresholds for a radiomics-based decision support system", Proc. SPIE 10950, Medical Imaging 2019: Computer-Aided Diagnosis, 109500W (13 March 2019); https://doi.org/10.1117/12.2513566'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Abstract
+Stage T2 is the clinical threshold for deciding whether to treat bladder cancer with neoadjuvant chemotherapy. In this study we refined a radiomics-based decision support system (CDSS-S) to aid clinicians in staging of bladder cancer in CT urography (CTU). To train the CDSS-S, we used a data set of 84 bladder cancers from 76 CTU clinically staged cases, 43 cancers were below stage T2, and 41 were stage T2 or above. An independent test set comprising of 82 bladder cancers from 80 CTU clinically staged cases that were staged as T2 or above were also collected. Our Auto- Initialized Cascaded Level Sets (AI-CALS) segmentation pipeline was utilized to segment the lesions from which radiomics features were extracted. The training set was split on 2 balanced partitions. Four classifiers were studied: linear discriminant analysis (LDA), support vector machines (SVM), back-propagation neural networks (BPNN), and random forest (RAF) classifiers. Based on the likelihood scores for a training set, the decision threshold providing the highest classification accuracy for each classifier was determined. The classifier with the fixed decision threshold was then applied to the test set and the performance evaluated. The test classification accuracy for the LDA, SVM, BPNN, and RAF trained on Partition 1 was 0.95, 0.98, 0.88, and 0.89, respectively, and was 0.88, 0.94, 0.88, and 0.93, respectively, when trained on Partition 2. The test classification accuracy for the LDA, SVM, BPNN, and RAF trained on the entire training set was 0.94, 0.94, 0.94, and 0.89, respectively. The results show the potential of CDSS-S in bladder cancer stage assessment.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://github.com/DhanujG/Bladder-Cancer-Classification-using-ML-and-Computer-Vision-Research)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Dhanuj Gandikota, Lubomir Hadjiiski, Heang-Ping Chan, Kenny H. Cha, Ravi Samala, Elaine M. Caoili, Richard H. Cohan, Alon Weizer, Ajjai Alva, Chintana Paramagul, Jun Wei, and Chuan Zhou "Bladder cancer staging in CT urography: estimation and validation of decision thresholds for a radiomics-based decision support system", Proc. SPIE 10950, Medical Imaging 2019: Computer-Aided Diagnosis, 109500W (13 March 2019); https://doi.org/10.1117/12.2513566
