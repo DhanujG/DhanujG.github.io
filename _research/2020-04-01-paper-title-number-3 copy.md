@@ -3,7 +3,7 @@ title: "Density-Based Spatial Clustering to Identify Similar Species as a Signat
 collection: research
 permalink: /research/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: Ongoing
+date: 2020-04-01
 venue: 'Univeristy of Michigan Computational Ecology & Evolutionary Biology Ostling Lab'
 paperurl: 'https://github.com/DhanujG/-R-Package-Biological-Ecological-Density-Clustering'
 citation: 'https://sites.google.com/umich.edu/ostlinglab/people?authuser=0'
