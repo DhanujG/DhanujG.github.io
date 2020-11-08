@@ -5,7 +5,7 @@ permalink: /research/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-02-27
 venue: 'SPIE 10575, Medical Imaging 2018'
-paperurl: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10575/105752B/Bladder-cancer-staging-in-CT-urography--effect-of-stage/10.1117/12.2295013.short?sessionGUID=c9d902bc-9993-ced2-68be-ad49a28531ab&sessionGUID=c9d902bc-9993-ced2-68be-ad49a28531ab&webSyncID=6e9e6ec7-a49d-ab6a-0cba-d059329ad883&SSO=1&tab=ArticleLink'
+paperurl: 'https://doi.org/10.1117/12.2295013'
 citation: 'Dhanuj Gandikota, Lubomir Hadjiiski, Kenny H. Cha, Heang-Ping Chan, Elaine M. Caoili, Richard H. Cohan, Alon Weizer, Ajjai Alva, Chintana Paramagul, Jun Wei, and Chuan Zhou "Bladder cancer staging in CT urography: effect of stage labels on statistical modeling of a decision support system", Proc. SPIE 10575, Medical Imaging 2018: Computer-Aided Diagnosis, 105752B (27 February 2018);'
 ---
 Abstract

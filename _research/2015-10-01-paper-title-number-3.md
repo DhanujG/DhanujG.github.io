@@ -5,7 +5,7 @@ permalink: /research/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2020-03-16
 venue: 'SPIE 11314, Medical Imaging 2020'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://doi.org/10.1117/12.2551309'
 citation: 'Daniel Hoklai Chapman-Sung, Lubomir Hadjiiski, Dhanuj Gandikota, Heang-Ping Chan, Ravi Samala, Elaine M. Caoili, Richard H. Cohan, Alon Weizer, Ajjai Alva, and Chuan Zhou "Convolutional neural network-based decision support system for bladder cancer staging in CT urography: decision threshold estimation and validation", Proc. SPIE 11314, Medical Imaging 2020: Computer-Aided Diagnosis, 113141T (16 March 2020);'
 ---
 Abstract
@@ -13,4 +13,4 @@ Stage T2 is the clinical threshold to administer neoadjuvant chemotherapy for bl
 
 [Download paper here](https://doi.org/10.1117/12.2551309)
 
-Daniel Hoklai Chapman-Sung, Lubomir Hadjiiski, Dhanuj Gandikota, Heang-Ping Chan, Ravi Samala, Elaine M. Caoili, Richard H. Cohan, Alon Weizer, Ajjai Alva, and Chuan Zhou "Convolutional neural network-based decision support system for bladder cancer staging in CT urography: decision threshold estimation and validation", Proc. SPIE 11314, Medical Imaging 2020: Computer-Aided Diagnosis, 113141T (16 March 2020); h
+Recommended citation: Daniel Hoklai Chapman-Sung, Lubomir Hadjiiski, Dhanuj Gandikota, Heang-Ping Chan, Ravi Samala, Elaine M. Caoili, Richard H. Cohan, Alon Weizer, Ajjai Alva, and Chuan Zhou "Convolutional neural network-based decision support system for bladder cancer staging in CT urography: decision threshold estimation and validation", Proc. SPIE 11314, Medical Imaging 2020: Computer-Aided Diagnosis, 113141T (16 March 2020); h
