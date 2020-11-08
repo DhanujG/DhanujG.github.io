@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Michigan Eco Data"
+excerpt: "I am the Founder and Project Director fo Michigan Eco Data where members use computing and data-driven discovery to solve environmental problems.<br/><img src='/images/500x300.png'>"
 collection: extracurricular
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Project Director & Founder
+-----
+I founded Michigan Eco Data as a venue for interdisciplinary exploration in data science, software engineering, and environmental conservation. We are a sponsored Student Organization under Michigan Institute for Data Science (MIDAS). Our execution of consumer Michigan Chemical Contamination Heatmap Visualization for Consumer Use (project details below) and effective executive board management awarded our organization the 2000$ sponsorship per semester from MIDAS. We currently have 40 active members!
+
+[Our self-made Website](https://umecodata.github.io/website/index.html)
+
+[OMichigan Institue of Data Science](https://midas.umich.edu/student-community/#student-teams)
