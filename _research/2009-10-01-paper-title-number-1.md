@@ -2,7 +2,7 @@
 title: "Bladder cancer staging in CT urography: effect of stage labels on statistical modeling of a decision support system"
 collection: research
 permalink: /research/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Primary Author - My research found that ML linear discriminant analysis was statistiscally significant in sorting bladder cancer staging determining different treatment avenues.'
 date: 2018-02-27
 venue: 'SPIE 10575, Medical Imaging 2018'
 paperurl: 'https://doi.org/10.1117/12.2295013'

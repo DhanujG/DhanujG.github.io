@@ -2,7 +2,7 @@
 title: "Convolutional neural network-based decision support system for bladder cancer staging in CT urography: decision threshold estimation and validation"
 collection: research
 permalink: /research/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'My research/code was ustilized as a secondary author in the implementation of a Neural Network in feature detecion of bladder cancer staging'
 date: 2020-03-16
 venue: 'SPIE 11314, Medical Imaging 2020'
 paperurl: 'https://doi.org/10.1117/12.2551309'
