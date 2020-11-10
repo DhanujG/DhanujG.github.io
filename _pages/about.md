@@ -13,24 +13,21 @@ Who am I?
 I am entering my final year at the University of Michigan graduating with degrees in Data Science, Computer Science, and Ecology. My passion for exploring how the intersection of data science contributes to propagating growth within any field has driven my personal and professional pursuits. I am equally excited about the unique journey as I am with the destination. 
 
 Present
-------
+======
 Graduating May 2021
-* B.S Computer Science
-* B.S Data Science
-* B.S Ecology & Evolutionary Biology
-* ~ 2 classes from equivalent M.S. in Data Science
-* * [More in Education](https://dhanujg.github.io/coursework/)
+* B.S **Computer Science**
+* B.S **Data Science**
+* B.S **Ecology & Evolutionary Biology**
+* ~ 2 classes from **equivalent M.S. in Data Science** [_More in Education_](https://dhanujg.github.io/coursework/)
 
  Computational Ecology, Evolution and Biology Lab - University of Michigan
- * Machine Learning Dev. Student Research
- * * [More in Research](https://dhanujg.github.io/research/)
+ * **Machine Learning Dev. Student Research** [_More in Research_](https://dhanujg.github.io/research/)
 
 Michigan Eco Data
-* Project Director
-* * [More info](https://dhanujg.github.io/experience/)
+* **Project Director** [_More info_](https://dhanujg.github.io/experience/)
 
 Future
-------
+======
 Pursuing roles in
 * Machine Learning Engineer
 * Data Scientist
@@ -46,30 +43,28 @@ Further Career Interests
 
 
 Past
-------
+======
 Michigan Medicine Computer Aided Diagnosis Laboratory
-* Machine Learning & Computer Vision Student Research 
-* * [More in Research](https://dhanujg.github.io/research/)
+* **Machine Learning & Computer Vision Student Research** [_More in Research_](https://dhanujg.github.io/research/)
 
 GHD: Engineering, Architectural, and Environmental Consulting
-* Data Science Intern
- * [More in Experience](https://dhanujg.github.io/experience/)
+* **Data Science Intern** [_More in Experience_](https://dhanujg.github.io/experience/)
 
 Coursework
-* Extends into 500+ level classes in Machine Learning and Statistical Data Analysis
-* * [More in Education](https://dhanujg.github.io/coursework/)
+* Extends into **500+ level classes in Machine Learning** and Statistical Data Analysis [_More in Education_](https://dhanujg.github.io/coursework/)
 
 
 Personal Strengths
-------
+======
 * Experienced as member and manager on technical teams
 * Comfort in public-speaking & interdisciplinary Communication
 * History of Research Writing and Technical Presentation
 
 
 Technical Skills
-------
-* [Samples found in Projects](https://dhanujg.github.io/projects/)
+======
+* [_Samples found in Projects_](https://dhanujg.github.io/projects/)
+
 Programming Languages
 * (Proficient) - C++/C, Python [PyTorch, TensorFlow, NumPy, Pandas] , SQL , R , MATLAB
 * (Familiar) - Java , HTML , CSS , Cuda
@@ -78,7 +73,7 @@ Tools and Frameworks
 * Linux , Hadoop , Git , MS Azure -Machine Learning , AWS-Sagemaker, Tableau , Jupyter , SAP-HANA
 
 Contact Me
-------
+======
 * dhanujg@umich.edu
 * dhanujmg@gmail.com
 * 734 730 3226 
