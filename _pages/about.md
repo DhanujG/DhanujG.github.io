@@ -8,9 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+
+
 Who am I?
 ------
 I am entering my final year at the University of Michigan graduating with degrees in Data Science, Computer Science, and Ecology. My passion for exploring how the intersection of data science contributes to propagating growth within any field has driven my personal and professional pursuits. I am equally excited about the unique journey as I am with the destination. 
+
+<div id="container">
+    <img src='/images/acappella.png'>
+    This is an image
+</div>
 
 Present
 ======
@@ -84,6 +91,14 @@ Contact Me
 
 
 
+#container {
+    height:100px;
+    line-height:100px;
+}
 
+#container img {
+    vertical-align:middle;
+    max-height:100%;
+}
 
 
