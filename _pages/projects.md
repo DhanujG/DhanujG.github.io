@@ -59,7 +59,7 @@ Presence of Community Alternative Stable States from Multi-species Population/In
   * Implemented and modulated a 3 species system with species-specific population parameters with novel interaction parameters to model empirical ecological interactions.
   * Final models demonstrated the existence of alternative stable states in the presence of a subset of ecological interactions in addition to the competition demonstrated in previous research.
   * Notable Technologies Used: MATLAB, Python
-  * [Code and Writeup](https://github.com/DhanujG/Population-Ecological-Modeling)
+  * [Code and Writeup](https://github.com/DhanujG/Community-Alternative-Stable-States-from-Multi-species-Interaction-Data)
 
 Systematic Bias between RateMyProfessor.Com and University Internal Evaluations
 -----

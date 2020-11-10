@@ -1,7 +1,7 @@
 ---
 title: "Density-Based Spatial Clustering to Identify Similar Species as a Signature of Coexistence under Competition "
 collection: research
-permalink: /research/2015-10-01-paper-title-number-3
+permalink: /research/2020-04-01-paper-title-number-3 copy
 excerpt: 'I am currently working on a paper in which I am developing an R package for Unsupervised ML Biological Trait Density Clustering using a recent clustering algorithm from 2018 research and a Density Based Cross Validatiion metric from 2016 research'
 date: 2020-04-01
 venue: 'Univeristy of Michigan Computational Ecology & Evolutionary Biology Ostling Lab'
