@@ -2,7 +2,7 @@
 title: "Bladder cancer staging in CT urography: estimation and validation of decision thresholds for a radiomics-based decision support system"
 collection: research
 permalink: /research/2010-10-01-paper-title-number-2
-excerpt: 'My reserach found that the use of decision threholds with multiple ML classifiers [LDA, BPNN, RAF, SVM] in our diagnosis system accurately diagnosed bladder cancer stages'
+excerpt: 'Primary Author - My research found that the use of decision threholds with multiple ML classifiers [LDA, BPNN, RAF, SVM] in our diagnosis system accurately diagnosed bladder cancer stages'
 date: 2019-03-13
 venue: 'SPIE 10950, Medical Imaging 2019'
 paperurl: 'https://doi.org/10.1117/12.2513566'

@@ -35,11 +35,12 @@ Michigan Eco Data
 * **Project Director** [_More info_](https://dhanujg.github.io/experience/)
 
 <p align="center">
-  <img width="800" height="117" src="/images/head1.png">
+  <img width="800" height="130" src="/images/head1.png">
 </p>
 
 Future
 ======
+______
 Pursuing roles in
 * Machine Learning Engineer
 * Data Scientist
@@ -54,13 +55,14 @@ Further Career Interests
 * Sustainability through Machine Learning
 
 <p align="center">
-  <img width="800" height="117" src="/images/head2.png">
+  <img width="800" height="130" src="/images/head2.png">
 </p>
 
 
 
 Past
 ======
+______
 Michigan Medicine Computer Aided Diagnosis Laboratory
 * **Machine Learning & Computer Vision Student Research** [_More in Research_](https://dhanujg.github.io/research/)
 
@@ -72,11 +74,12 @@ Coursework
 
  
 <p align="center">
-  <img width="800" height="117" src="/images/head3.png">
+  <img width="800" height="130" src="/images/head3.png">
 </p>
 
 Personal Strengths
 ------
+______
 * Experienced as member and manager on technical teams
 * Comfort in public-speaking & interdisciplinary Communication
 * History of Research Writing and Technical Presentation
@@ -84,6 +87,7 @@ Personal Strengths
 
 Technical Skills
 ------
+______
 * [_Samples found in Projects_](https://dhanujg.github.io/projects/)
 
 Programming Languages
@@ -95,6 +99,7 @@ Tools and Frameworks
 
 Contact Me
 ------
+______
 * dhanujg@umich.edu
 * dhanujmg@gmail.com
 * 734 730 3226 

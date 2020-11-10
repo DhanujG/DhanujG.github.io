@@ -10,4 +10,4 @@ I founded Michigan Eco Data as a venue for interdisciplinary exploration in data
 
 [Michigan Eco Data self-made Website](https://umecodata.github.io/website/index.html)
 
-[Michigan Institue of Data Science](https://midas.umich.edu/student-community/#student-teams)
+[Michigan Institute of Data Science](https://midas.umich.edu/student-community/#student-teams)

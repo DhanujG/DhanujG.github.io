@@ -17,7 +17,8 @@ main:
   - title: "Extracurricular"
     url: /extracurricular/
         
-  - title: "Peek in my Life"
-    url: /life/
+  
+  [comment]: #  - title: "Peek in my Life"
+  [comment]: #  url: /life/
     
  
