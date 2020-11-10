@@ -18,6 +18,9 @@ I am entering my final year at the University of Michigan graduating with degree
     <img src='/images/acappella.png'>
     This is an image
 </div>
+<p align="center">
+  <img width="460" height="300" src="/images/acappella.png">
+</p>
 
 Present
 ======
