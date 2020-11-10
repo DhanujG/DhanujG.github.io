@@ -12,7 +12,10 @@ redirect_from:
 
 Who am I?
 ------
-I am entering my final year at the University of Michigan graduating with degrees in Data Science, Computer Science, and Ecology. My passion for exploring how the intersection of data science contributes to propagating growth within any field has driven my personal and professional pursuits. I am equally excited about the unique journey as I am with the destination. 
+
+I am entering my final year at the University of Michigan graduating with degrees in Data Science, Computer Science, and Ecology. My passion for exploring how the intersection of data science contributes to propagating growth within any field has driven my personal and professional pursuits. I am equally excited about the unique journey as I am with the destination.
+
+[_View/Download my resume Here_](https://github.com/DhanujG/dhanujg.github.io/blob/master/files/Resume_Dhanuj_11_20_Final.pdf)
 
 
 <p align="center">
@@ -41,14 +44,14 @@ Michigan Eco Data
 Future
 ======
 ______
-Pursuing roles in
+**Pursuing roles in**
 * Machine Learning Engineer
 * Data Scientist
 * Software Engineer
 * Research Engineer
 * A.I Engineer
 
-Further Career Interests
+**Further Career Interests**
 * Novel Machine Learning w/ Big Data Analytics Product Integration
 * Applied A.I Research
 * Autonomous Environmental Restoration
