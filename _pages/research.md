@@ -8,21 +8,25 @@ I have found some of my most rewarding work through my reserach, where I was all
 
 Computational Ecology, Evolution and Biology Lab - University of Michigan
 -----
-* Machine Learning Dev. Student Research
+* **Machine Learning Dev. Student Research**
+  * [Lab Website](https://sites.google.com/umich.edu/ostlinglab/people?authuser=0)
   * Encoded Density Clustering ML Model, selected with DBCV analysis suite to identify coexistence among competing species contrary to existing principles of competitive exclusion. Model architecture and validation designed from recent ML research.
   * Created R package for Bio-Ecologists to easily structure trait data and perform Biological ML Clustering Analysis
   * Operate as an interdisciplinary reference within lab to explain and analyze machine learning and data analysis research.
   * Notable Technologies Used: Python, C++/C, R, MATLAB, Git
+  *[My Code](https://github.com/DhanujG/-R-Package-Biological-Ecological-Density-Clustering)
 
 
 
 Michigan Medicine Computer Aided Diagnosis Laboratory - University of Michigan
 -----
-* Machine Learning & Computer Vision Student Research
-  * Findings resulted as Primary Author in two Publications, was selected for Poster, Oral Presentation in SPIE Conference 2019
+* **Machine Learning & Computer Vision Student Research**
+  * [Lab Website](https://cad-ai.med.umich.edu/people)
+  * Findings resulted as Primary Author in two Publications, was selected for Poster, Oral Presentation in [SPIE Conference](https://spie.org/conferences-and-exhibitions?SSO=1) 2019
   * Performed Feature Extraction and Selection on Bladder CTU Scan Segmentations to extract key features in Bladder Cancer Lesion Staging (staging determines the avenue of treatment)
   * Implemented and trained a series of Back Propagated Neural Networks, Linear Discriminant Analysis, Support Vector Machines, and Random Forest Algorithms – validated through ROC analysis - resulting in a models' cancer staging accuracy (+80%)
   * Notable Technologies Used: C++, C, Python, Weka, MS Excel
+  * [Work Samples](https://github.com/DhanujG/Bladder-Cancer-Classification-using-ML-and-Computer-Vision-Research)
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

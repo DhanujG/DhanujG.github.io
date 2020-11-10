@@ -5,7 +5,7 @@ permalink: /extracurricular/
 author_profile: true
 ---
 
-Moreso than my coursework or professional experience, I believe my extracurriculars help truly define me as a person. The sense of freindship, community, and team I get from these activities is irreplacable and have contributed so much to my character as person.
+More than my coursework or professional experience, my extracurriculars help truly define me as a person. The sense of friendship, community, and team I get from these activities is irreplacable and have contributed so much to my character.
 
 {% include base_path %}
 
