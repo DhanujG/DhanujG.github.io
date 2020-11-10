@@ -97,7 +97,7 @@ Contact Me
 }
 
 #container img {
-    vertical-align:middle;
+    horizontal-align:middle;
     max-height:100%;
 }
 
