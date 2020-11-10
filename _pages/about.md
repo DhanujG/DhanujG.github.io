@@ -14,6 +14,7 @@ I am entering my final year at the University of Michigan graduating with degree
 
 Present
 ======
+______
 Graduating May 2021
 * B.S **Computer Science**
 * B.S **Data Science**
@@ -51,18 +52,20 @@ GHD: Engineering, Architectural, and Environmental Consulting
 * **Data Science Intern** [_More in Experience_](https://dhanujg.github.io/experience/)
 
 Coursework
-* Extends into **500+ level classes in Machine Learning** and Statistical Data Analysis [_More in Education_](https://dhanujg.github.io/coursework/)
+* Extends into **500+ level classes in Machine Learning and Statistical Data Analysis** [_More in Education_](https://dhanujg.github.io/coursework/)
 
+ 
+  
 
 Personal Strengths
-======
+------
 * Experienced as member and manager on technical teams
 * Comfort in public-speaking & interdisciplinary Communication
 * History of Research Writing and Technical Presentation
 
 
 Technical Skills
-======
+------
 * [_Samples found in Projects_](https://dhanujg.github.io/projects/)
 
 Programming Languages
@@ -73,7 +76,7 @@ Tools and Frameworks
 * Linux , Hadoop , Git , MS Azure -Machine Learning , AWS-Sagemaker, Tableau , Jupyter , SAP-HANA
 
 Contact Me
-======
+------
 * dhanujg@umich.edu
 * dhanujmg@gmail.com
 * 734 730 3226 
