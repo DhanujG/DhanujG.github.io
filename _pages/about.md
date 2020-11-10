@@ -14,12 +14,9 @@ Who am I?
 ------
 I am entering my final year at the University of Michigan graduating with degrees in Data Science, Computer Science, and Ecology. My passion for exploring how the intersection of data science contributes to propagating growth within any field has driven my personal and professional pursuits. I am equally excited about the unique journey as I am with the destination. 
 
-<div id="container">
-    <img src='/images/acappella.png'>
-    This is an image
-</div>
+
 <p align="center">
-  <img width="460" height="300" src="/images/acappella.png">
+  <img width="600" height="280" src="/images/banner.png">
 </p>
 
 Present
@@ -37,6 +34,10 @@ Graduating May 2021
 Michigan Eco Data
 * **Project Director** [_More info_](https://dhanujg.github.io/experience/)
 
+<p align="center">
+  <img width="800" height="117" src="/images/head1.png">
+</p>
+
 Future
 ======
 Pursuing roles in
@@ -52,6 +53,11 @@ Further Career Interests
 * Autonomous Environmental Restoration
 * Sustainability through Machine Learning
 
+<p align="center">
+  <img width="800" height="117" src="/images/head2.png">
+</p>
+
+
 
 Past
 ======
@@ -65,7 +71,9 @@ Coursework
 * Extends into **500+ level classes in Machine Learning and Statistical Data Analysis** [_More in Education_](https://dhanujg.github.io/coursework/)
 
  
-  
+<p align="center">
+  <img width="800" height="117" src="/images/head3.png">
+</p>
 
 Personal Strengths
 ------
