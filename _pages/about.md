@@ -107,14 +107,3 @@ ______
 
 
 
-#container {
-    height:100px;
-    line-height:100px;
-}
-
-#container img {
-    horizontal-align:middle;
-    max-height:100%;
-}
-
-
