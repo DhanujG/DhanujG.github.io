@@ -1,6 +1,6 @@
 ---
 title: "Michigan Climbing Club"
-excerpt: " I love Rock Climbing and I am a member of the climbing club at the University of Michigan <br/><img src='/images/climbing.png'>"
+excerpt: " I love Rock Climbing and I am a member of the climbing club at the University of Michigan. From being previously overweight, climbing has truly helped my health as well as allowed me to express joy as an athelete. <br/><img src='/images/climbing.png'>"
 collection: extracurricular
 ---
 

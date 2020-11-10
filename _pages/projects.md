@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "Some of my own designed Projects!"
+title: "Project Samples"
 permalink: /projects/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+Here are some of my projects that I have designed and implemented, many of which were inside and outside of my coursework (student orgs, research, or for fun). There are links to the project code and work samples for each, please let me know if you would like any more information!
 
 Forest Tree Density Mapping of Drone Images with Spatial Convolutional Neural Network
 -----

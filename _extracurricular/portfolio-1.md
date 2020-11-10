@@ -1,6 +1,6 @@
 ---
 title: "Michigan Eco Data"
-excerpt: "I am the Founder and Project Director fo Michigan Eco Data where members use computing and data-driven discovery to solve environmental problems.<br/><img src='/images/eco_data.png'>"
+excerpt: "I founded Michigan Eco Data for members to their passion in computing and data-driven discovery to solve environmental problems. We are currently a sponsored student organization with 40 active members. <br/><img src='/images/eco_data.png'>"
 collection: extracurricular
 ---
 

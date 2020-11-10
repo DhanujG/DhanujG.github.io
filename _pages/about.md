@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello!"
+title: "Welcome to my Website Portfolio!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,28 +14,28 @@ I am entering my final year at the University of Michigan graduating with degree
 
 Present
 ------
-Senior in Computer Science, Data Science and Ecology at Univeristy of Michigan
+**Graduating May 2021**
+* B.S Computer Science
+* B.S Data Science
+* B.S Ecology & Evolutionary Biology
+* ~ 2 classes from equivalent M.S. in Data Science
 
-Machine Learning Dev. Student Research at Computational Ecology, Evolution and Biology Lab - University of Michigan
+ **Computational Ecology, Evolution and Biology Lab** - University of Michigan
+ * Machine Learning Dev. Student Research
 
-Project Director of Michigan Eco Data
+**Michigan Eco Data**
+* Project Director
 
 Future
 ------
-Pursuing roles in 
+**Pursuing roles in** 
 * Machine Learning Engineer
 * Data Scientist
 * Software Engineer
 * Research Engineer
 * A.I Engineer
 
-Graduating with
-* B.S Computer Science
-* B.S Data Science
-* B.S Ecology & Evolutionary Biology
-* ~ 2 classes from equivalent M.S. in Data Science
-
-Further Career Interests
+**Further Career Interests**
 * Novel Machine Learning w/ Big Data Analytics Product Integration
 * Applied A.I Research
 * Autonomous Environmental Restoration
@@ -44,9 +44,14 @@ Further Career Interests
 
 Past
 ------
-Machine Learning & Computer Vision Student Research at Michigan Medicine Computer Aided Diagnosis Laboratory - University of Michigan
+**Michigan Medicine Computer Aided Diagnosis Laboratory** 
+* Machine Learning & Computer Vision Student Research 
 
-Data Science Intern at GHD: Engineering, Architectural, and Environmental Consulting
+**GHD: Engineering, Architectural, and Environmental Consulting**
+* Data Science Intern
+
+**Coursework**
+* Extends into 500+ level classes in Machine Learning and Statistical Data Analysis
 
 
 Personal Strengths
@@ -58,19 +63,19 @@ Personal Strengths
 
 Technical Skills
 ------
-Programming Languages
+**Programming Languages**
 * (Proficient) - C++/C, Python [PyTorch, TensorFlow, NumPy, Pandas] , SQL , R , MATLAB
 * (Familiar) - Java , HTML , CSS , Cuda
 
-Tools and Frameworks
+**Tools and Frameworks**
 * Linux , Hadoop , Git , MS Azure -Machine Learning , AWS-Sagemaker, Tableau , Jupyter , SAP-HANA
 
 Contact Me
 ------
-dhanujg@umich.edu
-dhanujmg@gmail.com
-734 730 3226 
-Ann Arbor, MI 48104
+* dhanujg@umich.edu
+* dhanujmg@gmail.com
+* 734 730 3226 
+* Ann Arbor, MI 48104
 
 
 

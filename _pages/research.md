@@ -4,7 +4,7 @@ title: "My Research Journey"
 permalink: /research/
 author_profile: true
 ---
-
+I have found some of my most rewarding work through my reserach, where I was allowed to pursue projects that fully utilized knowledge from all three of my degrees. These wonderful opportunities have allowed me to be published multiple times as a primary author, present on a podium in a national conference, and implement groundbreaking analysis within a new discipline. Below I have information from both the labs I have worked in as well as the papers that I have directly wrote/ contributed to.
 
 Computational Ecology, Evolution and Biology Lab - University of Michigan
 -----

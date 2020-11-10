@@ -1,6 +1,6 @@
 ---
 title: "DJs A Cappella"
-excerpt: "I sing and perform in DJ's A Cappella, a student a cappella group in teh Univeristy of Michigan <br/><img src='/images/acappella.png'>"
+excerpt: "I sing and perform in DJ's A Cappella, a student a cappella group in the Univeristy of Michigan. Beyond being an amazing opportunity, they have truly become a second family. <br/><img src='/images/acappella.png'>"
 collection: extracurricular
 ---
 
