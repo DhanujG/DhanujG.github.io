@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Here are some of my projects that I have designed and implemented, many of which were inside and outside of my coursework (student orgs, research, or for fun). There are links to the project code and work samples for each, please let me know if you would like any more information!
+Here are some of my projects that I have designed and implemented outside of my structured coursework (student orgs, research, or for fun). There are links to the project code and work samples for each, please let me know if you would like any more information!
 
 Forest Tree Density Mapping of Drone Images with Spatial Convolutional Neural Network
 -----

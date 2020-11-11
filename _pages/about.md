@@ -44,7 +44,7 @@ Michigan Eco Data
 Future
 ======
 ______
-**Pursuing roles in**
+**Pursuing roles as**
 * Machine Learning Engineer
 * Data Scientist
 * Software Engineer
