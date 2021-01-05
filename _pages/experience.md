@@ -7,6 +7,14 @@ redirect_from:
   - /resume
 ---
 
+Machine Learning Engineer & Data Scientist Co-Op
+=====
+RXA: AI & BI Consulting 
+-----
+* [Website](https://www.rxa.io/services/ai-bi-consulting)
+* January 2021 – Present
+
+
 Machine Learning Dev. Student Research
 =====
 Computational Ecology, Evolution and Biology Lab - University of Michigan 

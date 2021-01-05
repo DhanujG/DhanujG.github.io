@@ -15,7 +15,7 @@ Who am I?
 
 I am entering my final year at the University of Michigan graduating with degrees in Data Science, Computer Science, and Ecology. My passion for exploring how the intersection of data science contributes to propagating growth within any field has driven my personal and professional pursuits. I am equally excited about the unique journey as I am with the destination.
 
-[_View/Download my resume Here_](https://github.com/DhanujG/dhanujg.github.io/blob/master/files/Resume_Dhanuj_11_20_Final.pdf)
+[_View/Download my resume Here_](https://github.com/DhanujG/dhanujg.github.io/blob/master/files/Resume_Dhanuj_1_21_Final.pdf)
 
 
 <p align="center">
@@ -31,7 +31,11 @@ Graduating May 2021
 * B.S **Ecology & Evolutionary Biology**
 * ~ 2 classes from **equivalent M.S. in Data Science** [_More in Education_](https://dhanujg.github.io/coursework/)
 
- Computational Ecology, Evolution and Biology Lab - University of Michigan
+RXA
+* **Machine Learning Engineer & Data Scientist Co-Op** [Company Website](https://www.rxa.io/services/ai-bi-consulting)
+
+
+Computational Ecology, Evolution and Biology Lab - University of Michigan
  * **Machine Learning Dev. Student Research** [_More in Research_](https://dhanujg.github.io/research/)
 
 Michigan Eco Data
