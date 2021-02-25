@@ -30,7 +30,7 @@ Computational Ecology, Evolution and Biology Lab - University of Michigan
   *[My Code](https://github.com/DhanujG/weightedClustSuite)
 
 
-Project Director & Founder
+Product Director & Founder
 =====
 Michigan Eco Data
 -----
