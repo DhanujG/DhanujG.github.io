@@ -18,9 +18,9 @@ Who am I?
 [_View/Download my resume Here_](https://github.com/DhanujG/dhanujg.github.io/blob/master/files/Dhanuj_G_Resume_3_21.pdf)
 
 
-<p align="center">
-  <img width="600" height="280" src="/images/banner.png">
-</p>
+# <p align="center">
+#  <img width="600" height="280" src="/images/banner.png">
+# </p>
 
 Present
 ======
