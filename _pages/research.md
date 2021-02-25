@@ -10,11 +10,11 @@ Computational Ecology, Evolution and Biology Lab - University of Michigan
 -----
 * **Machine Learning Dev. Student Research**
   * [Lab Website](https://sites.google.com/umich.edu/ostlinglab/people?authuser=0)
+  * Published open-source R package titled weightedClustSuite [R, C++, Python] for Machine Learning Density Clustering  & Validation, used on weighted species abundance data enabling identification of species distribution clusters [Link](https://github.com/DhanujG/weightedClustSuite)
   * Encoded Density Clustering ML Model, selected with DBCV analysis suite to identify coexistence among competing species contrary to existing principles of competitive exclusion. Model architecture and validation designed from recent ML research.
-  * Created R package for Bio-Ecologists to easily structure trait data and perform Biological ML Clustering Analysis
   * Operate as an interdisciplinary reference within lab to explain and analyze machine learning and data analysis research.
   * Notable Technologies Used: Python, C++/C, R, MATLAB, Git
-  *[My Code](https://github.com/DhanujG/-R-Package-Biological-Ecological-Density-Clustering)
+  *[My Code](https://github.com/DhanujG/weightedClustSuite)
 
 
 
