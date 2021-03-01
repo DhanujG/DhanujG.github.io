@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dhanuj M. Gandikota"
   avatar           : "profile.png"
-  bio              : "B.S Data Science, 2021\n B.S Computer Science, 2021\n B.S Ecology & Evolutionary Biology, 2021  •\n [734-730-3226] •\n [dhanujg@umich.edu]" 
-  location         : "University of Michigan - Ann Arbor"
+  bio              : "B.S Data Science, 2021\n B.S Computer Science, 2021\n B.S Ecology & Evolutionary Biology, 2021  •\n [734-730-3226] •\n [dhanujg@umich.edu] •\n Ann Arbor, MI" 
+  location         : "University of Michigan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cu2ta44AAAAJ&hl=en"
-  email            : 
+  email            : "dhanujg@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
