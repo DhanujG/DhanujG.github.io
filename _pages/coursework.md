@@ -32,6 +32,7 @@ Classes Taken
   * **EECS 281**: Data Structures and Algorithms
   * **STATS 415**: Data Mining
   * **STATS 413**: Regression Analysis
+  * **STATS 412**: Statistics & Probability for Engineering
   * **Math 217**: Linear Algebra
   * **EEB 445**: Population and Community Ecology
   * **CMPLXSYS 435**: Ecological Networks
